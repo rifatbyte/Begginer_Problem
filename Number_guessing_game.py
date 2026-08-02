@@ -35,7 +35,7 @@ def play_game(player_name):
 player1_attempts = play_game("player1")
 player2_attempts = play_game("player2")
 
-print("/n_______RESULT________")
+print("_______RESULT________")
 print(f"Player1 Attempts: {player1_attempts}")
 print(f"Player2 Attempts: {player2_attempts}")
 
